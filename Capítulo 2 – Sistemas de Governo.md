@@ -6,7 +6,7 @@ Desde modelos centralizados, como **impérios** e **monarquias absolutas**, até
 
 Compreender os **sistemas de governo** é essencial para analisar a **organização dos Estados**, as **relações de poder** e os **conflitos políticos** ao longo do tempo, além de permitir uma **leitura crítica** das formas de governo existentes no mundo atual.
 
-```md
+
 # **Sistemas de Governo**
 
 Abaixo está uma lista **ampla e organizada** dos principais **sistemas de governo**, considerando formas históricas, religiosas, políticas e modernas.
