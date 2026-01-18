@@ -97,5 +97,63 @@ O território brasileiro abriga uma das maiores biodiversidades do planeta, divi
 
 ---
 
-Este capítulo apresenta uma **visão geral do Brasil**, abordando seus aspectos políticos, geográficos, culturais e ambientais, fundamentais para compreender a identidade nacional.
+## **Fusos Horários do Brasil**
 
+O Brasil possui **4 fusos horários oficiais**, definidos de acordo com a posição geográfica do território em relação ao **Meridiano de Greenwich (UTC)**.
+
+---
+
+### **UTC −2 (Fuso das Ilhas Oceânicas)**
+- **Horário:** 2 horas atrás do UTC
+- **Abrange:**  
+  - Arquipélago de **Fernando de Noronha**  
+  - **Ilha da Trindade e Martim Vaz**
+- É o fuso **mais adiantado** do Brasil.
+
+---
+
+### **UTC −3 (Horário de Brasília)**
+- **Horário oficial do Brasil**
+- **Abrange:**  
+  - Distrito Federal  
+  - Estados das regiões **Sul, Sudeste e Nordeste**  
+  - Goiás, Tocantins, Pará (maior parte) e Amapá
+- Usado como **referência nacional**, inclusive em transmissões oficiais.
+
+---
+
+### **UTC −4**
+- **Horário:** 1 hora atrás do horário de Brasília
+- **Abrange:**  
+  - Mato Grosso  
+  - Mato Grosso do Sul  
+  - Rondônia  
+  - Roraima  
+  - Amazonas (maior parte)
+- Região com forte influência da **Amazônia Legal**.
+
+---
+
+### **UTC −5**
+- **Horário:** 2 horas atrás do horário de Brasília
+- **Abrange:**  
+  - **Acre**
+  - Extremo oeste do **Amazonas**
+- É o fuso **mais atrasado** do país.
+
+---
+
+### **Resumo Rápido**
+
+| **Fuso** | **Diferença do UTC** | **Regiões** |
+|--------|----------------------|-------------|
+| UTC −2 | −2h | Ilhas oceânicas |
+| UTC −3 | −3h | Maior parte do país |
+| UTC −4 | −4h | Centro-Oeste e Norte |
+| UTC −5 | −5h | Acre e oeste do AM |
+
+---
+
+📌 **Observação:** O **horário de verão não é mais adotado** no Brasil desde 2019.
+
+<img src="https://raw.githubusercontent.com/kodishmediacenter/Educacao-Cidada/refs/heads/main/img/fusos.png">
