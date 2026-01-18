@@ -78,3 +78,31 @@ Abaixo está uma lista **ampla e organizada** dos principais **sistemas de gover
 
 ---
 
+## **Tabela Comparativa – Sistemas de Governo**
+
+| **Sistema** | **Quem governa** | **Origem do poder** | **Características principais** | **Exemplo** |
+|------------|------------------|---------------------|--------------------------------|-------------|
+| **Império** | Imperador | Conquista / hereditariedade | Grande território, poder centralizado | Império Romano |
+| **Monarquia** | Rei ou Rainha | Hereditariedade | Governo vitalício | Reino Unido |
+| **Monarquia Absoluta** | Rei | Direito divino | Poder total do monarca | França (séc. XVII) |
+| **Monarquia Constitucional** | Rei + Parlamento | Constituição | Poder limitado por leis | Espanha |
+| **República** | Presidente | Eleição popular | Mandato temporário | Brasil |
+| **Democracia Direta** | Povo | Participação direta | Voto em decisões | Suíça |
+| **Democracia Representativa** | Representantes eleitos | Eleição | Parlamento ativo | Alemanha |
+| **Principado** | Príncipe | Hereditariedade | Pequeno território | Mônaco |
+| **Aristocracia** | Elite nobre | Tradição social | Governo dos “melhores” | Atenas antiga |
+| **Oligarquia** | Pequeno grupo | Poder econômico/militar | Elite governa | Esparta |
+| **Teocracia** | Líder religioso | Religião | Leis religiosas | Irã |
+| **Papado** | Papa | Eleição clerical | Estado religioso | Vaticano |
+| **Califado** | Califa | Tradição islâmica | Poder político e religioso | Califado Abássida |
+| **Ditadura** | Líder ou grupo | Força militar | Sem eleições livres | Chile (1973) |
+| **Autocracia** | Um governante | Poder pessoal | Autoridade absoluta | Coreia do Norte |
+| **Totalitarismo** | Partido/Estado | Ideologia | Controle total | Alemanha Nazista |
+| **Parlamentarismo** | Primeiro-ministro | Parlamento | Governo dependente do legislativo | Reino Unido |
+| **Presidencialismo** | Presidente | Eleição direta | Poder concentrado no executivo | EUA |
+| **Semi-presidencialismo** | Presidente + Primeiro-ministro | Eleição + Parlamento | Poder compartilhado | França |
+| **Federalismo** | Governo central + estados | Constituição | Autonomia regional | Brasil |
+| **Anarquia** | Ninguém | Autogestão | Ausência de Estado | — |
+
+
+
