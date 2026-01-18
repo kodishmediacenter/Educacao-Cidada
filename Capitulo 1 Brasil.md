@@ -157,3 +157,11 @@ O Brasil possui **4 fusos horários oficiais**, definidos de acordo com a posiç
 📌 **Observação:** O **horário de verão não é mais adotado** no Brasil desde 2019.
 
 <img src="https://raw.githubusercontent.com/kodishmediacenter/Educacao-Cidada/refs/heads/main/img/fusos.png">
+
+## **Bandeira do Brasil**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/250px-Flag_of_Brazil.svg.png">
+
+## **Brasão de Armas do Brasil**
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Coat_of_arms_of_Brazil_%28dark_blue%29.svg/120px-Coat_of_arms_of_Brazil_%28dark_blue%29.svg.png">
+
+
