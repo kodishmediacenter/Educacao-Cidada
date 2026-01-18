@@ -13,7 +13,8 @@ Os **dias nacionais** são datas importantes que marcam acontecimentos históric
 - **7 de setembro** – Independência do Brasil  
 - **12 de outubro** – Nossa Senhora Aparecida  
 - **2 de novembro** – Finados  
-- **15 de novembro** – Proclamação da República  
+- **15 de novembro** – Proclamação da República
+- **20 de novembro – Dia da Consciência Negra
 - **25 de dezembro** – Natal
 
 ## **Significado das Datas Oficiais do Brasil**
@@ -35,6 +36,9 @@ Data dedicada à **memória dos mortos**, momento de reflexão, respeito e lembr
 
 ### **15 de novembro – Proclamação da República**
 Marca o fim da monarquia e o início da **República**, em 1889, estabelecendo um novo modelo de governo no Brasil.
+
+### **20 de novembro – Dia da Consciência Negra**
+A data homenageia **Zumbi dos Palmares**, líder do Quilombo dos Palmares, símbolo da **resistência negra contra a escravidão**. O Dia da Consciência Negra promove a **reflexão sobre o racismo**, a valorização da **cultura afro-brasileira** e a importância da **igualdade racial** na sociedade brasileira.
 
 ### **25 de dezembro – Natal**
 Celebra o **nascimento de Jesus Cristo**, com significado religioso e cultural, associado à união familiar e solidariedade.
