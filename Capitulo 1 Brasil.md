@@ -14,7 +14,7 @@ Os **dias nacionais** são datas importantes que marcam acontecimentos históric
 - **12 de outubro** – Nossa Senhora Aparecida  
 - **2 de novembro** – Finados  
 - **15 de novembro** – Proclamação da República
-- **20 de novembro – Dia da Consciência Negra
+- **20 de novembro** – Dia da Consciência Negra
 - **25 de dezembro** – Natal
 
 ## **Significado das Datas Oficiais do Brasil**
